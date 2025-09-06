@@ -29,10 +29,10 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
 
 ### Engineering & Math Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="SolidWorks" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="Wolfram Mathematica" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-94D3A032B9-seeklogo.com.png" alt="Fusion 360" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="Fusion 360" width="40" height="40"/>
 </p>
 
 ---
