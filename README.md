@@ -10,12 +10,9 @@
 I'm passionate about **controls engineering** and **product design engineering**.  
 Joining the **James Dyson Award** gave me valuable insights into manufacturability and the practicality of innovative ideas.  
 
-Lately, I've been fascinated by **metamaterials** and their applications in **acoustic engineering**.  
-
 During my freshman year, I honed my CAD skills using **AutoCAD** and **SolidWorks**, later exploring **Autodesk Fusion** in my spare time for product design
 
 Beyond engineering, I also explore **Data Science** and **Machine Learning**, with special interests in **digital twins** and **physics-informed models**.  
-
 
 ---
 
