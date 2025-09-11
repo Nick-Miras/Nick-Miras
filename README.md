@@ -39,7 +39,7 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
 ## 💼 Experience  
 
 - **AI/ML Officer** — *Google Developer Groups on Campus - San Carlos* (Aug 2025 – Present)  
-- **Research Assistant (Embedded Systems)** — *University of San Carlos - Center of Geoinformatics and Environmental Sciences* (Sep 2025 – Present)  
+- **Research Assistant (Embedded Systems)** — *University of San Carlos - Center for Geoinformatics and Environmental Solutions* (Sep 2025 – Present)  
 - **Freelance Research Consultant (Mechatronics & Embedded Systems)** (Mar 2024 – Present)  
 - **GPT-3 Beta Tester** — *OpenAI* (2021 – 2022)  
 
