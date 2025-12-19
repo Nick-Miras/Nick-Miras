@@ -2,6 +2,7 @@
 
 🎓 Sophomore | Mechanical Engineering  
 📍 University of San Carlos  
+🧑‍🔬 Research Intern @ CenGES (University of San Carlos)
 
 ---
 
@@ -17,46 +18,37 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
 
 ## 🛠️ Skills & Tools  
 
-### Programming & Data
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="50" height="50"/>
-</p>
-
+### Tech Stack
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python"/>
+  </a>
+  <a href="https://www.r-project.org" target="_blank">
+    <img src="https://img.shields.io/badge/r-language?style=for-the-badge&logo=r&logoColor=white&color=165CAA" alt="r"/>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank">
+    <img src="https://img.shields.io/badge/wolfram-mathematica?style=for-the-badge&logo=wolframmathematica&logoColor=white&color=DD1100" alt="Mathematica"/>
+</div>
+    
 ### Engineering & Math Tools
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="SolidWorks" width="150" height="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="Wolfram Mathematica" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Fusion360_Logo.svg" alt="AutoCAD" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="Fusion 360" width="150" height="150"/>
-</p>
 
----
-
-## 💼 Experience  
-
-- **AI/ML Officer** — *Google Developer Groups on Campus - San Carlos* (Aug 2025 – Present)  
-- **Research Assistant (Embedded Systems)** — *University of San Carlos - Center for Geoinformatics and Environmental Solutions* (Sep 2025 – Present)  
-- **Freelance Research Consultant (Mechatronics & Embedded Systems)** (Mar 2024 – Present)  
-- **GPT-3 Beta Tester** — *OpenAI* (2021 – 2022)  
-
----
-
-## 🏅 Honors & Awards  
-- Champion — *Learniverse: The Ideathon*  
-- 4th Placer — *National Python Programming Competition*  
-- Finalist — *Philippine Junior Data Science Challenge*  
-- 3rd Placer — *Freeduino Open (DIWA Innovation Lab Maker Challenge)*  
+<div align="center">
+  <a href="https://www.solidworks.com" target="_blank">
+    <img src="https://img.shields.io/badge/solidworks-red?style=for-the-badge&logo=dassaultsystemes&color=EE3124" alt="solidworks"/>
+  </a>
+</div>
 
 ---
 
 ## 🌱 Currently Exploring  
 - CFD & CAE
-- **Physics-informed ML** for digital twins  
-- Advanced CAD workflows
+- Mathematical Modelling
+- AWS Cloud
 
 ---
 
