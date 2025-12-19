@@ -52,7 +52,7 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
 ## Github Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nick-Miras&show_icons=true&theme=dark" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Miras&theme=dark&layout=compact&hide=Jupyter%20Notebook,ROFF" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Miras&theme=dark&layout=compact&hide=Jupyter%20Notebook,ROFF&exclude_repo=toolchain-gccmipselfrda8955-linux" height="150px"/>
 </div>
 
 ## ✉️ Certifications
