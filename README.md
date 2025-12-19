@@ -43,14 +43,15 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
   <a href="https://www.wolfram.com/mathematica/" target="_blank">
     <img src="https://img.shields.io/badge/wolfram-mathematica?style=for-the-badge&logo=wolframmathematica&logoColor=white&color=DD1100" alt="Mathematica"/>
   </a>
+  <a href="https://www.autodesk.com/asean/products/fusion-360" target="_blank">
+    <img src="https://img.shields.io/badge/Fusion360-orange?style=for-the-badge&logo=autodesk&color=FAA21B" alt="Fusion 360"/>
+  </a>
 </div>
 
 ---
 
 ## ✉️ Certifications
 - Certified SOLIDWORKS Professional — CAD Design (CSWP)
-
----
 
 ## 🌱 Currently Exploring  
 - CFD & CAE
