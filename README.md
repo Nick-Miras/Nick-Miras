@@ -18,7 +18,7 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
 
 ## 🛠️ Skills & Tools  
 
-### Tech Stack
+### Languages
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
