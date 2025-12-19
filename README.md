@@ -32,8 +32,11 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
   <a href="https://www.r-project.org" target="_blank">
     <img src="https://img.shields.io/badge/r-language?style=for-the-badge&logo=r&logoColor=white&color=165CAA" alt="r"/>
   </a>
+  <a href="https://www.latex-project.org" target="_blank">
+    <img src="https://img.shields.io/badge/latex-blue?style=for-the-badge&logo=latex&color=3D5D9E" alt="latex"/>
+  </a>
 </div>
-    
+
 ### Engineering & Math Tools
 
 <div align="center">
