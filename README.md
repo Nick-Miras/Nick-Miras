@@ -49,6 +49,11 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
 </div>
 
 ---
+## Github Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nick-Miras&show_icons=true&theme=dark" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Miras&theme=dark&layout=compact&hide=Jupyter%20Notebook,ROFF" height="150px"/>
+</div>
 
 ## ✉️ Certifications
 - Certified SOLIDWORKS Professional — CAD Design (CSWP)
