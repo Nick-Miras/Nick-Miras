@@ -31,8 +31,7 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
   </a>
   <a href="https://www.r-project.org" target="_blank">
     <img src="https://img.shields.io/badge/r-language?style=for-the-badge&logo=r&logoColor=white&color=165CAA" alt="r"/>
-  <a href="https://www.wolfram.com/mathematica/" target="_blank">
-    <img src="https://img.shields.io/badge/wolfram-mathematica?style=for-the-badge&logo=wolframmathematica&logoColor=white&color=DD1100" alt="Mathematica"/>
+  </a>
 </div>
     
 ### Engineering & Math Tools
@@ -41,7 +40,15 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
   <a href="https://www.solidworks.com" target="_blank">
     <img src="https://img.shields.io/badge/solidworks-red?style=for-the-badge&logo=dassaultsystemes&color=EE3124" alt="solidworks"/>
   </a>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank">
+    <img src="https://img.shields.io/badge/wolfram-mathematica?style=for-the-badge&logo=wolframmathematica&logoColor=white&color=DD1100" alt="Mathematica"/>
+  </a>
 </div>
+
+---
+
+## ✉️ Certifications
+- Certified SOLIDWORKS Professional — CAD Design (CSWP)
 
 ---
 
