@@ -69,4 +69,4 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/nick-anthony-miras-273b94227/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)]([https://www.linkedin.com/](https://www.linkedin.com/in/nick-anthony-miras-273b94227/))  
