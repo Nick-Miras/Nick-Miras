@@ -12,7 +12,7 @@ Joining the **James Dyson Award** gave me valuable insights into manufacturabili
 
 During my freshman year, I honed my CAD skills using **AutoCAD** and **SolidWorks**, later exploring **Autodesk Fusion** in my spare time for product design
 
-Beyond engineering, I also explore **Data Science** and **Machine Learning**, with special interests in **digital twins** and **physics-informed models**.  
+Beyond engineering, I also explore **Data Science** and **Machine Learning**, with special interests in **digital twins**.  
 
 ---
 
@@ -28,9 +28,6 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python"/>
-  </a>
-  <a href="https://www.r-project.org" target="_blank">
-    <img src="https://img.shields.io/badge/r-language?style=for-the-badge&logo=r&logoColor=white&color=165CAA" alt="r"/>
   </a>
   <a href="https://www.latex-project.org" target="_blank">
     <img src="https://img.shields.io/badge/latex-blue?style=for-the-badge&logo=latex&color=3D5D9E" alt="latex"/>
