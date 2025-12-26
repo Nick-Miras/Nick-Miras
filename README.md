@@ -34,6 +34,7 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
 </div>
 
 ### Engineering & Math
+
 <div align="center">
   <a href="https://www.autodesk.com/asean/products/autocad" target="_blank">
       <img src="https://img.shields.io/badge/autocad-black?style=for-the-badge&logo=autocad" alt="AutoCAD"/>
@@ -43,6 +44,9 @@ Beyond engineering, I also explore **Data Science** and **Machine Learning**, wi
     </a>
   <a href="https://www.solidworks.com" target="_blank">
     <img src="https://img.shields.io/badge/solidworks-red?style=for-the-badge&logo=dassaultsystemes&color=EE3124" alt="solidworks"/>
+  </a>
+  <a href="https://matlab.mathworks.com" target="_blank">
+    <img src="https://img.shields.io/badge/matlab-bluee?style=for-the-badge&color=015696" alt="matlab"/>
   </a>
   <a href="https://www.wolfram.com/mathematica/" target="_blank">
     <img src="https://img.shields.io/badge/wolfram-mathematica?style=for-the-badge&logo=wolframmathematica&logoColor=white&color=DD1100" alt="Mathematica"/>
