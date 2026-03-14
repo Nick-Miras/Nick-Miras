@@ -7,11 +7,11 @@
 ---
 
 ## 🧑‍🔬 About Me  
-I'm passionate about **controls engineering** and **product design engineering**.  
+I'm passionate about **systems modelling** and **product design engineering**.  
 
-During my freshman year, I honed my CAD skills using **AutoCAD** and **SolidWorks**, later exploring **Autodesk Fusion** in my spare time for product design
+During my freshman year, I honed my CAD skills using **AutoCAD** and **SolidWorks**, later exploring **Autodesk Fusion** in my spare time for product design.
 
-Beyond engineering, I also explore **Data Science** and **Machine Learning**, with a special interest in **digital twins**.  
+Beyond engineering, I also explore **Machine Learning**, with a special interest in **digital twins**.  
 
 ---
 
